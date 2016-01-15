@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8" />
 <title>Using the Awesome custom markers in leaflet powered maps</title>
-<link rel='stylesheet' href='file:///C:/Users/user/Desktop/New folder (3)/Leaflet.awesome-markers-2.0-develop/font-awesome-4.4.0/css/font-awesome.css' />
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.rawgit.com/mayotunde/Leaflet.awesome-markers/2.0/develop/dist/leaflet.awesome-markers.css">
